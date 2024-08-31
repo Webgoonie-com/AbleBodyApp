@@ -1,0 +1,13 @@
+{
+  "name": "mobile",
+  "version": "1.0.0",
+  "description": "This is a gig working app using socket.io and leaflet technologies to provide a simple hire and work app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Webgoonie <webgoonie@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
