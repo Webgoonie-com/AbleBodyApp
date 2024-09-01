@@ -1,0 +1,14 @@
+{
+  "name": "ablebody.app",
+  "version": "1.0",
+  "description": "This is a gig working app using socket.io and leaflet technologies to provide a simple hire and work app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/Webgoonie-com/AbleBodyApp.git",
+  "keywords": [],
+  "author": "Webgoonie <webgoonie@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
